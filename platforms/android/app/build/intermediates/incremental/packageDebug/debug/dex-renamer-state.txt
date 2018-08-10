@@ -1,0 +1,4 @@
+#Thu Jul 19 23:27:46 PDT 2018
+base.0=/Users/prakharsethi/Desktop/Web Dev/Coursera/ionic/conFusion/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/prakharsethi/Desktop/Web Dev/Coursera/ionic/conFusion/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
